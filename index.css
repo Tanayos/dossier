@@ -1,0 +1,171 @@
+* {
+  padding: 0;
+}
+/*Header*/
+img {
+  height: 90px;
+  width : 80px;
+}
+div.text h3{
+  text-decoration: underline;
+
+}
+.text {
+  height: 120px;
+  width: 20%;
+
+  float: left;
+}
+.texthead {
+  height: 90px;
+  width: 10%;
+
+  float : left;
+  margin: 20px 0 0 10px;
+
+}
+
+#head {
+
+
+  height: 150px;
+  width: 80%;
+  border: 2px solid;
+  border-bottom: 1px solid;
+
+}
+.headrecherche{
+  height: 90px;
+  width: 30%;
+
+  float: right;
+}
+.Navigation {
+  height: 30px;
+  width: 90%;
+  border : 1px solid;
+  float: right;
+  margin: 10px 10px;
+  }
+div.Navigation p {
+  font-size: 15px;
+}
+.recherche {
+  height: 30px;
+  width: 90%;
+  border: 1px solid;
+  margin: 5px 10px;
+  float: right;
+}
+#gauche {
+  float: left;
+  height: 500px;
+  width: 20%;
+  border: 2px solid;
+  border-top: 1px solid;
+  border-right:  1px solid;
+
+}
+/* coter gauche*/
+.coter {
+  height: 300px;
+  width : 70%;
+  border: 1px solid;
+  margin: 50px 0px 0px 40px;
+}
+aside.coter ul {
+  padding-left: 30px;
+  font-size: 20px;
+}
+.coter2 {
+  height: 100px;
+  width: 70%;
+  border: 1px solid;
+  margin: 10px 0px 0px 40px;
+}
+/*conteneur 2*/
+.conteneur2{
+  display: block;
+  height: 500px;
+  width : 60%;
+  border : 2px solid;
+  float: left;
+  border-left: 1px solid;
+  border-top: 1px solid;
+  }
+.Mailing0 {
+  float: left;
+  height: 80px;
+  width: 50%;
+
+}
+  .mailing {
+    float: left;
+    height: 40px;
+    width: 50%;
+
+  }
+  .mailing p {
+    padding-left: 20px;
+  }
+.mailing2 {
+  float: left;
+  height: 50px;
+  width: 50%;
+
+}
+
+.mailing h2 {
+padding-left: 20px;
+
+}
+.Texte1 {
+  height: 340px;
+  width: 60%;
+  border: 1px solid;
+  float: left;
+  margin: 40px 0px 0px 40px;
+}
+.text2 {
+  height: 340px;
+  width : 30%;
+  border: 1px solid;
+  float: left;
+  margin: 40px 0 0 10px;
+}
+
+
+.menu {
+  text-align: center;
+  float: right;
+  height: 50px;
+  width: 100%;
+  border: 2px solid;
+  border-right: 0px solid;
+  border-top: 1px solid;
+  border-left: 1px solid;
+  }
+
+nav.menu li {
+  display: inline;
+  font-family: verdana;
+  text-decoration: none;
+
+}
+a {
+  text-decoration: none;
+}
+
+
+
+
+.bas {
+  height: 100px;
+  width: 80%;
+  border: 2px solid;
+  float: left;
+  border-top: 1px solid;
+
+
+
+}
